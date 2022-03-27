@@ -14,7 +14,7 @@ export default function Animacao() {
   loop
   mode="normal"
   src="https://assets4.lottiefiles.com/private_files/lf30_1SRcwK.json"
-  style={{ width: "120px", height: "120px"}}
+  style={{ width: "80px", height: "80px"}}
 >
 </lottie-player>
 
